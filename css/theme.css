@@ -6110,7 +6110,7 @@ textarea.form-control-lg {
   margin-top: 1.5rem !important; }
 
 .mt-5 {
-  margin-top: 3rem !important; }
+  margin-top: -3rem !important; }
 
 .mt-auto {
   margin-top: auto !important; }
@@ -8926,9 +8926,13 @@ img {
   padding-bottom: 32px; }
 
 .navbar.scrolled {
-  padding-top: 12px;
-  padding-bottom: 12px;
+  padding-top: 1px;
+  padding-bottom: 1px;
   background-color: #111; }
+
+
+
+
 
 .display-big {
   font-size: 7rem; }
@@ -9183,8 +9187,8 @@ img {
   padding-bottom: 6vh; }
 
 .py-vh-4 {
-  padding-top: 9vh;
-  padding-bottom: 9vh; }
+  padding-top: 4vh;
+  padding-bottom: 4vh; }
 
 .py-vh-5 {
   padding-top: 12vh;
